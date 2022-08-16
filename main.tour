@@ -15,7 +15,7 @@
     {
       "file": "style.css",
       "line": 2,
-      "description": "Hover over the `<rgb>` to choose the background color of your choice. Thanks for trying out this sample! 🙏"
+      "description": "Hover over the `<hex>` color to choose the background color of your choice. Thanks for trying out this sample! 🙏"
     }
   ]
 }
