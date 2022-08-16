@@ -1,0 +1,21 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Amazing Womxn of Color in STEM",
+  "steps": [
+    {
+      "file": "index.html",
+      "line": 2,
+      "description": "Hey! 👋 Welcome to the Amazing Womxn of Color in STEM template. Use this tour to guide you through the app, and learn how to interact with its live coding environment. Try changing their text content and watch it take effect immediately!\n\nClick the `Next` link below to keep learning 👇"
+    },
+    {
+      "file": "index.html",
+      "line": 9,
+      "description": "Update the `<h1>` to your name!"
+    },
+    {
+      "file": "style.css",
+      "line": 2,
+      "description": "Hover over the `<rgb>` to choose the background color of your choice. Thanks for trying out this sample! 🙏"
+    }
+  ]
+}
